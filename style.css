@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #ccc;
+}
+
+.main {
+  background-color: olivedrab;
+}
+
+.footer {
+  background-color: antiquewhite;
+}
